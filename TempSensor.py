@@ -14,12 +14,12 @@ roms = ds.scan()
 
 
 
-pin_D0 = machine.Pin(14, machine.Pin.OUT)
-pin_D1 = machine.Pin(16,machine.Pin.OUT)
-pin_D2 = machine.Pin(5,machine.Pin.OUT)
-pin_D3 = machine.Pin(4,machine.Pin.OUT)
-pin_D4 = machine.Pin(0,machine.Pin.OUT)
-pin_D5 = machine.Pin(2,machine.Pin.OUT)
+pin_D0 = machine.Pin(16, machine.Pin.OUT)
+pin_D1 = machine.Pin(5,machine.Pin.OUT)
+pin_D2 = machine.Pin(4,machine.Pin.OUT)
+pin_D3 = machine.Pin(0,machine.Pin.OUT)
+pin_D4 = machine.Pin(2,machine.Pin.OUT)
+pin_D5 = machine.Pin(14,machine.Pin.OUT)
 
 
 
